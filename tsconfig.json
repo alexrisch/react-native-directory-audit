@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "module": "CommonJS",
+    "target": "es5",
+    // "rootDir": "src",
+    "outDir": "dist",
+    "esModuleInterop": true
+  },
+  "exclude": [
+    "**/*.test.ts",
+    "dist/"
+  ]
+}
