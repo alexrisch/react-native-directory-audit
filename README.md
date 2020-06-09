@@ -5,11 +5,11 @@ CLI package to audit package dependencies against https://reactnative.directory/
 
 **NPM**
 ```
-npm i react-native-directory
+npm i react-native-directory-audit
 ```
 **Yarn**
 ```
-yarn add react-native-directory
+yarn add react-native-directory-audit
 ```
 
 # How it works
